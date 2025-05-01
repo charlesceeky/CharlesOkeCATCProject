@@ -21,5 +21,5 @@ echo "--------------------"
 for (( i=0; i<points; i++ ))
 do
     echo "Year $((current_year + i)): €${salary}"
-    salary=$(echo "$salary+($salary * $yearly_increment)" | bc)
+    salary=$(echo "$salary+($salary * $yearly_increment/100)" | bc)
 done
