@@ -2,7 +2,7 @@
 =========Q2.2=========
 
 ---Current Date and Time---
-Thu May  1 15:34:20 UTC 2025
+Sun May  4 15:08:36 UTC 2025
 
 ---Hostname---
 CharlesOkeCATC
@@ -11,38 +11,38 @@ CharlesOkeCATC
 x86_64
 
 ---System Information---
-Linux CharlesOkeCATC 6.8.0-1021-azure #25-Ubuntu SMP Wed Jan 15 20:45:09 UTC 2025 x86_64 x86_64 x86_64 GNU/Linux
+Linux CharlesOkeCATC 6.11.0-1013-azure #13~24.04.1-Ubuntu SMP Fri Mar 28 23:43:34 UTC 2025 x86_64 x86_64 x86_64 GNU/Linux
 
 ---Uptime---
- 15:34:20 up 15:31,  2 users,  load average: 0.00, 0.00, 0.00
+ 15:08:36 up 34 min,  1 user,  load average: 0.00, 0.00, 0.00
 
 ---Current User---
 charlesoke
 
 ---Logged in Users---
-charlesoke pts/0        2025-05-01 15:28 (86.41.73.137)
+charlesoke pts/0        2025-05-04 14:35 (86.41.73.137)
 
 ---Who is doing what---
- 15:34:20 up 15:31,  2 users,  load average: 0.00, 0.00, 0.00
+ 15:08:36 up 34 min,  1 user,  load average: 0.00, 0.00, 0.00
 USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU  WHAT
-charleso          86.41.73.137     15:28   14:42m  0.00s   ?    sshd: charlesoke [priv]
+charleso          86.41.73.137     14:35   15:56   0.00s   ?    sshd: charlesoke [priv]
 
 ---Top processes snap---
-top - 15:34:20 up 15:31,  2 users,  load average: 0.00, 0.00, 0.00
+top - 15:08:36 up 34 min,  1 user,  load average: 0.00, 0.00, 0.00
 Tasks: 127 total,   1 running, 126 sleeping,   0 stopped,   0 zombie
-%Cpu(s):  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    841.4 total,    163.3 free,    409.4 used,    428.3 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    432.0 avail Mem 
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :    841.1 total,    206.6 free,    376.3 used,    401.3 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    464.9 avail Mem 
 
     PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-      1 root      20   0   22336  13696   9728 S   0.0   1.6   0:03.66 systemd
-      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      1 root      20   0   22228  13348   9508 S   0.0   1.5   0:01.48 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.01 kthreadd
       3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
       4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
       5 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
       6 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
       7 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
-      9 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      8 root      20   0       0      0      0 I   0.0   0.0   0:00.35 kworker+
 
 ---History Command---
 mkdir Music
@@ -148,6 +148,7 @@ echo {con,pre}{sent,fer}{s,ed}
 echo $SHELL
 ls
 cd CharlesOkeCATCProject/
+LS
 ls
 vim firstscript.sh
 chmod +x firstscript.sh
@@ -215,3 +216,180 @@ vim firstscript.sh
 ./firstscript.sh
 cat charlesOke.txt 
 vim firstscript.sh 
+cd CharlesOkeCATCProject/
+ls
+vim firstscript.sh 
+./firstscript.sh 
+cat charlesOke.txt 
+vim firstscript.sh 
+./firstscript.sh 
+cat charlesOke.txt 
+cd CharlesOkeCATCProject/
+cat charlesOke.txt 
+git add charlesOke.txt
+git commit -m "Auto-created text file"
+git push origin main
+vim charlesOke.txt
+https://github.com/charleseekey/CharlesOkeCATCProject/security/secret-scanning/unblock-secret/...
+vim charlesOke.txt
+git add charlesOke.txt 
+git commit -m "Auto-created text file"
+git push origin main
+vim charlesOke.txt
+git add charlesOke.txt 
+git commit -m "Auto-created text file"
+git add charlesOke.txt
+git commit -m "Auto text file created"
+git add charlesOke.txt 
+git commit -m "Auto txt file created"
+git push origin main
+git push --force origin main
+vim charlesOke.txt 
+git add charlesOke.txt 
+git commit --amend --no-edit
+git push --force origin main
+cp charlesOke.txt ~/charlesOke-backup.txt
+rm -rf .git
+git init
+git remote add origin git@github.com:charleseekey/CharlesOkeCATCProject.git
+echo "*.swp" >> .gitignore
+echo "charlesOke.txt" >> .gitignore
+git add firstscript.sh .gitignore
+git commit -m "Pat removed"
+git branch -M main
+git push --force origin main
+ls
+git remote set-url origin git@github.com:charlesceeky/CharlesOkeCATCProject.git
+git push --force origin main
+ls
+git add charlesOke.txt 
+git rm .gitignore
+git add charlesOke.txt
+git commit -m "Auto created txt file"
+git push origin main
+git rm .firstscript.sh
+git rm firstscript.sh 
+ls
+git restore firstscript.sh
+git log --oneline --firstscript.sh
+git log --oneline -- firstscript.sh
+git checkout ea3a18b -- firstscript.sh
+ls
+git add firstscript.sh 
+git commit -m "Shell script created"
+vim firstscript.sh 
+rm firstscript,swp.sh
+vim firstscript.sh 
+rm firstscript.sh.swp
+vim firstscript.sh 
+rm .firstscript.sh.swp
+vim firstscript.sh 
+git rebase -i HEAD~2
+git rebase -i HEAD~1
+git rebase -i HEAD~2
+git log --oneline
+git rebase -i HEAD~2
+git rebase --root -i
+git log --oneline
+git rebase --root -i
+git log --oneline
+git rebase --root -i
+git log --oneline
+git push --force origin main
+git log --oneline
+cd CharlesOkeCATCProject/
+git log --oneline
+<commit-hash> <commit-message>
+git log
+git log --oneline
+ls
+vim charlesOke.txt 
+cat charlesOke.txt
+chmod 700 ~
+ls -ld ~
+lynx www.google.com
+sudo apt install lynx
+lynx www.google.com
+cd CharlesOkeCATCProject/
+LS
+ls
+vim firstscript.sh 
+vim salary.sh
+cd CharlesOkeCATCProject/
+LS
+ls
+vim salary.sh
+ls
+vim salary.sh 
+cd CharlesOkeCATCProject/rm .salary.sh.swp
+rm 
+rm .salary.sh.swp
+ls
+rm .salary.sh.swp
+cd CharlesOkeCATCProject/
+rm .salary.sh.swp
+vim salary.sh 
+ls
+chmod +x salary.sh
+./
+./salary.sh 
+ls
+./salary.sh 
+vim salary.sh 
+vim firstscript.sh 
+cd CharlesOkeCATCProject/
+./salary.sh 
+vim salary.sh 
+./salary.sh 
+vim salary.sh 
+./salary.sh 
+git add salary.sh
+git commit -m "first attempt at salary.sh"
+git push origin main
+vim salary.sh 
+./salary.sh 
+git add salary.sh
+git commit -m "percentage increment corrected"
+git push origin main
+./salary.sh
+ls
+ls 
+cd CharlesOkeCATCProject/
+ls
+./salary.sh 
+vim salary.sh 
+echo hello world
+echo 5
+passwd
+Passwd
+date
+hostname
+ls
+arch
+uname -a
+uptime
+whoami
+who
+last
+w
+echo $shell
+echo $SHELL
+echo {con,pre}{sent,fer}{s,ed
+echo {con,pre}{sent,fer}{s,ed}
+man ls
+man who
+clear
+cal 2000
+sudo apt install ncal
+cal 2000
+cal 9 1752
+yes please
+time sleep 5
+history
+sudo dmesg | more
+history
+ls
+cd CharlesOkeCATCProject/
+ls
+vim firstscript.sh 
+ls
