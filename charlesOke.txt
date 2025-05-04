@@ -148,7 +148,6 @@ echo {con,pre}{sent,fer}{s,ed}
 echo $SHELL
 ls
 cd CharlesOkeCATCProject/
-LS
 ls
 vim firstscript.sh
 chmod +x firstscript.sh
